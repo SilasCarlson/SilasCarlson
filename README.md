@@ -36,8 +36,10 @@ management and C++ fundamentals.
 **Employee Timesheet System** - Full-stack web application built with Node.js 
 and Firebase. Currently used by 20+ employees in production.
 
+<!--
 ## GitHub Stats
 ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilasCarlson&show_icons=true)
+-->
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-carlson)
