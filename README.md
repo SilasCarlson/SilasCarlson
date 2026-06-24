@@ -1,7 +1,8 @@
 # Silas Carlson
 
-I'm a computer science student at BYU-Idaho interested in game development, 
-full-stack web, and machine learning.
+I'm a computer science student at BYU-Idaho from Lincoln, Nebraska. 
+I enjoy building things, from full-stack web apps to games published 
+on Steam. I'm interested in game development, full-stack web, and machine learning.
 
 ## About
 
