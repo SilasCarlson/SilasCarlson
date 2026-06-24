@@ -8,9 +8,9 @@ on Steam. I'm interested in game development, full-stack web, and machine learni
 
 - B.S. Computer Science @ BYU-Idaho (2027) | GPA: 4.0
 - Minor in Spanish
+- Currently learning: Machine learning and parallel computing
 
 ## Technologies
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -21,6 +21,10 @@ on Steam. I'm interested in game development, full-stack web, and machine learni
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+- Languages: C#, Python, JavaScript/TypeScript, PHP
+- Tools & Frameworks: React, Laravel, Node.js, REST APIs, MySQL
+- Concepts: SDLC, Agile, Testing & Debugging
 
 ## Projects
 
